@@ -1,2 +1,2 @@
 # tta-react-project
-![Alt text](public/layout.png)
+![Alt text](../public/layout.png)
